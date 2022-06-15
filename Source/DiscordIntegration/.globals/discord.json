@@ -1,0 +1,8 @@
+{
+    "modules": {
+        "Discord": "discord.js"
+    },
+    "components": {
+        
+    }
+}
